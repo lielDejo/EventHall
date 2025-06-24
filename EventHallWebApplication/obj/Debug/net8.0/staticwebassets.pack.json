@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\CSS\\MasterPage.css",
+      "PackagePath": "staticwebassets\\CSS\\MasterPage.css"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\The_Garden.jpg",
+      "PackagePath": "staticwebassets\\imgs\\The_Garden.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\chofit.jpg",
+      "PackagePath": "staticwebassets\\imgs\\chofit.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\hermozo.jpg",
+      "PackagePath": "staticwebassets\\imgs\\hermozo.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\loading.gif",
+      "PackagePath": "staticwebassets\\imgs\\loading.gif"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\logo.png",
+      "PackagePath": "staticwebassets\\imgs\\logo.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\pninat_hmizrach.jpg",
+      "PackagePath": "staticwebassets\\imgs\\pninat_hmizrach.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\sLogo-withOut.png",
+      "PackagePath": "staticwebassets\\imgs\\sLogo-withOut.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\sLogo.png",
+      "PackagePath": "staticwebassets\\imgs\\sLogo.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\via.jpg",
+      "PackagePath": "staticwebassets\\imgs\\via.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\vigo.jpeg",
+      "PackagePath": "staticwebassets\\imgs\\vigo.jpeg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\vigo2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\vigo2.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\imgs\\מסמכים סרוקים.pdf",
+      "PackagePath": "staticwebassets\\imgs\\מסמכים סרוקים.pdf"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\scripts\\ajax.js",
+      "PackagePath": "staticwebassets\\scripts\\ajax.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EventHallWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EventHallWebApplication.props",
+      "PackagePath": "build\\EventHallWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EventHallWebApplication.props",
+      "PackagePath": "buildMultiTargeting\\EventHallWebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EventHallWebApplication.props",
+      "PackagePath": "buildTransitive\\EventHallWebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

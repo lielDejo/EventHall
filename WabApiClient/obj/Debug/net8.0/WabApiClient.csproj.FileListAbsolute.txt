@@ -1,0 +1,12 @@
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\WabApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\WabApiClient.AssemblyInfoInputs.cache
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\WabApiClient.AssemblyInfo.cs
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\WabApiClient.csproj.CoreCompileInputs.cache
+C:\FinalProjectEvent\EventHall\WabApiClient\bin\Debug\net8.0\WabApiClient.deps.json
+C:\FinalProjectEvent\EventHall\WabApiClient\bin\Debug\net8.0\WabApiClient.dll
+C:\FinalProjectEvent\EventHall\WabApiClient\bin\Debug\net8.0\WabApiClient.pdb
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\WabApiClient.csproj.AssemblyReference.cache
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\WabApiClient.dll
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\refint\WabApiClient.dll
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\WabApiClient.pdb
+C:\FinalProjectEvent\EventHall\WabApiClient\obj\Debug\net8.0\ref\WabApiClient.dll

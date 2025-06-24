@@ -1,0 +1,165 @@
+﻿@{
+    ViewData["Title"] = "Schedule Meeting";
+}
+
+<div class="form-container">
+    <h1 class="form-title">Schedule Your Meeting</h1>
+
+    <form method="post" action="/Catalog/yourMeets">
+        <input name="HallId" type="hidden" value="@ViewBag.HallId" />
+
+        <div class="form-group">
+            <label for="DateMeet">Select Date</label>
+            <div class="input-container">
+                <input type="date" id="DateMeet" name="DateMeet" required>
+                <span class="icon">📅</span>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="Hour">Select Time</label>
+            <div class="input-container">
+                <input type="time" id="Hour" name="Hour" required>
+                <span class="icon">⏰</span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="ReasonMeet">Reason for the Meeting</label>
+            <textarea id="ReasonMeet" name="ReasonMeet" required></textarea>
+        </div>
+
+        <button type="submit" class="form-button">Book Meeting</button>
+        @if (ViewBag.Error != null)
+        {
+            <div class="error-message">@ViewBag.Error</div>
+        }
+
+    </form>
+</div>
+<a href="http://localhost:5043" class="back-button">Back</a>
+<script>
+    document.getElementById('DateMeet').addEventListener('change', function (e) {
+        const selectedDate = new Date(e.target.value);
+        const dayOfWeek = selectedDate.getDay();
+
+        if (dayOfWeek === 5 || dayOfWeek === 6) { // 5 = Friday, 6 = Saturday
+            alert('Fridays and Saturdays are unavailable for booking.');
+            e.target.value = '';
+        }
+    });
+</script>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: radial-gradient(at center, #3b3b3b, #1f1f1f);
+        color: #A37409;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+        position: relative;
+    }
+
+    .form-container {
+        background: linear-gradient(135deg, #2a2a2a, #1f1f1f);
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+        width: 100%;
+        max-width: 400px;
+        border: 2px solid #d0c784;
+    }
+
+    .form-title {
+        font-size: 2.5rem;
+        color: #d0c784;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+        text-align: left;
+    }
+
+    label {
+        display: block;
+        font-size: 1rem;
+        margin-bottom: 8px;
+        color: #d0c784;
+    }
+
+    .input-container {
+        position: relative;
+        width: 100%;
+    }
+
+        .input-container .icon {
+            position: absolute;
+            top: 50%;
+            left: 10px;
+            transform: translateY(-50%);
+            color: #d0c784;
+        }
+
+    input, textarea {
+        width: 100%;
+        padding: 10px 10px 10px 35px;
+        font-size: 1rem;
+        border: 1px solid #444444;
+        border-radius: 5px;
+        background-color: #222222;
+        color: #d0c784;
+        box-sizing: border-box;
+        transition: border-color 0.3s, box-shadow 0.3s;
+    }
+
+        input:focus, textarea:focus {
+            border-color: #d0c784;
+            box-shadow: 0 0 8px rgba(208, 199, 132, 0.7);
+            outline: none;
+        }
+
+    .form-button {
+        width: 100%;
+        padding: 12px;
+        font-size: 1rem;
+        color: #1f1f1f;
+        background: linear-gradient(135deg, #d0c784, #9c6e33);
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: transform 0.2s, box-shadow 0.3s;
+        margin-top: 10px;
+    }
+
+        .form-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(208, 199, 132, 0.8);
+        }
+
+    .back-button {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        background: linear-gradient(135deg, #9c6e33, #d0c784);
+        color: #1f1f1f;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-size: 1rem;
+        font-weight: bold;
+        border-radius: 5px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        transition: transform 0.2s, box-shadow 0.3s;
+    }
+
+        .back-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 16px rgba(208, 199, 132, 0.8);
+        }
+</style>

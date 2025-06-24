@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "viewLoginForm";
+}
+
+<div class="form-container">
+    <h1 class="form-title">Log In</h1>
+    <form method="post" action="http://localhost:5043/Catalog/Login">
+        <div class="form-group">
+            <label for="userName">Name</label>
+            <div class="input-container">
+                <input type="text" id="name" name="userName" placeholder="Enter your name" required>
+                <span class="icon">&#x1F464;</span> <!-- אייקון התחברות -->
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="password">Password</label>
+            <div class="input-container">
+                <input type="password" id="password" name="password" placeholder="Enter your password" required>
+                <span class="icon">&#128272;</span> <!-- אייקון של מנעול -->
+            </div>
+        </div>
+
+        <button type="submit" class="form-button">Submit</button>
+        <button type="submit" class="admin-button" formaction="http://localhost:5043/Catalog/AdminLogin">Log in as Admin</button>
+        
+        @if (ViewBag.error != null)
+        {
+            <h1 class="error-message"></h1>
+            <h1 class="error-message">There is something wrong, please try again</h1>
+        }
+    </form>
+</div>
+
+<a href="http://localhost:5043" class="back-button">Back</a>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: radial-gradient(at center, #3b3b3b, #1f1f1f);
+        color: #A37409;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+        position: relative;
+    }
+
+    .form-container {
+        background: linear-gradient(135deg, #2a2a2a, #1f1f1f);
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.7);
+        width: 100%;
+        max-width: 400px;
+        border: 2px solid #d0c784;
+    }
+
+    .form-title {
+        font-size: 2.5rem;
+        color: #d0c784;
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+        text-align: left;
+    }
+
+    label {
+        display: block;
+        font-size: 1rem;
+        margin-bottom: 8px;
+        color: #d0c784;
+    }
+
+    .input-container {
+        position: relative;
+        width: 100%;
+    }
+
+    .input-container .icon {
+        position: absolute;
+        top: 50%;
+        left: 10px;
+        transform: translateY(-50%);
+        color: #d0c784;
+    }
+
+    input {
+        width: 100%;
+        padding: 10px 10px 10px 35px;
+        font-size: 1rem;
+        border: 1px solid #444444;
+        border-radius: 5px;
+        background-color: #222222;
+        color: #d0c784;
+        box-sizing: border-box;
+        transition: border-color 0.3s, box-shadow 0.3s;
+    }
+
+    input:focus {
+        border-color: #d0c784;
+        box-shadow: 0 0 8px rgba(208, 199, 132, 0.7);
+        outline: none;
+    }
+
+    .form-button, .admin-button {
+        width: 100%;
+        padding: 12px;
+        font-size: 1rem;
+        color: #1f1f1f;
+        background: linear-gradient(135deg, #d0c784, #9c6e33);
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: transform 0.2s, box-shadow 0.3s;
+        margin-top: 10px;
+    }
+
+    .form-button:hover, .admin-button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 16px rgba(208, 199, 132, 0.8);
+    }
+
+    .error-message {
+        color: #e74c3c;
+        font-size: 1.2rem;
+        margin-bottom: 20px;
+    }
+
+    .back-button {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        background: linear-gradient(135deg, #9c6e33, #d0c784);
+        color: #1f1f1f;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-size: 1rem;
+        font-weight: bold;
+        border-radius: 5px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        transition: transform 0.2s, box-shadow 0.3s;
+    }
+
+    .back-button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 16px rgba(208, 199, 132, 0.8);
+    }
+</style>

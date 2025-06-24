@@ -1,0 +1,1013 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FinalProjectEvent\\EventHall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|c:\\finalprojectevent\\eventhall\\hallwebservice\\dataaccesslayer\\repositorys\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\hallrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\hallwebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\hallwebservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\catalog\\gethallcatalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\catalog\\gethallcatalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\catalog\\gethalllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\catalog\\gethalllist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\controllers\\ragistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\controllers\\ragistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\modelfactory\\citycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\modelfactory\\citycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WebApiClient.csproj|C:\\FinalProjectEvent\\EventHall\\wabapiclient\\webclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WebApiClient.csproj|solutionrelative:wabapiclient\\webclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\modelfactory\\imagecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\modelfactory\\imagecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\meetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\meetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\viewmodel\\eventhallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\viewmodel\\eventhallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\models\\eventhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\models\\eventhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|C:\\FinalProjectEvent\\EventHall\\eventmodels\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2085897-C9A7-468D-9303-27D6571CE8C9}|EventModels\\EventModels.csproj|solutionrelative:eventmodels\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WebApiClient.csproj|C:\\FinalProjectEvent\\EventHall\\wabapiclient\\iwebclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WebApiClient.csproj|solutionrelative:wabapiclient\\iwebclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WabApiClient.csproj|C:\\FinalProjectEvent\\EventHall\\wabapiclient\\iwebclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WabApiClient.csproj|solutionrelative:wabapiclient\\iwebclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\eventhallwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\eventhallwebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\modelfactory\\ratingcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\modelfactory\\ratingcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\ratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\catalog\\hallitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\catalog\\hallitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WabApiClient.csproj|C:\\FinalProjectEvent\\EventHall\\wabapiclient\\webclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1A3047-80F3-4C48-A499-F49D5C679FCC}|WabApiClient\\WabApiClient.csproj|solutionrelative:wabapiclient\\webclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\halleventadmin.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\halleventadmin.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\modelfactory\\eventhallcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\modelfactory\\eventhallcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\catalog\\viewordermeet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\catalog\\viewordermeet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\catalog\\yourmeets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\catalog\\yourmeets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\eventhallwebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\eventhallwebapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\modelfactory\\meetcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\modelfactory\\meetcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\wwwroot\\scripts\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\wwwroot\\scripts\\ajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|C:\\FinalProjectEvent\\EventHall\\halleventadmin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE0DC714-6D50-4CBB-B40D-3BC4523FEAF9}|HallEventAdmin\\HallEventAdmin.csproj|solutionrelative:halleventadmin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\catalog\\viewregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\catalog\\viewregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\modelfactory\\modelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\modelfactory\\modelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\wwwroot\\css\\hallcatalog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\wwwroot\\css\\hallcatalog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|C:\\FinalProjectEvent\\EventHall\\hallwebservice\\dataaccesslayer\\repositorys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135DA2C-D9CC-44B2-B5D6-535A4905EE53}|HallWebService\\HallWebService.csproj|solutionrelative:hallwebservice\\dataaccesslayer\\repositorys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|C:\\FinalProjectEvent\\EventHall\\eventhallwebapplication\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18C8DF68-1DAE-408B-9F25-F38841BB261C}|EventHallWebApplication\\EventHallWebApplication.csproj|solutionrelative:eventhallwebapplication\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "EventHallWebApplication\\Controllers\\CatalogController.cs",
+              "ViewState": "AQIAABkBAAAAAAAAAAAmwDgBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:41:29.217Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HallRepository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\HallRepository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\HallRepository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\HallRepository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\HallRepository.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAA+wPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:36:35.958Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "HallEventAdmin\\Window3.xaml.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window3.xaml.cs",
+              "RelativeToolTip": "HallEventAdmin\\Window3.xaml.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAcwKkAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:41:29.057Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "HallEventAdmin\\Window2.xaml.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window2.xaml.cs",
+              "RelativeToolTip": "HallEventAdmin\\Window2.xaml.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAvwJcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:40:00.698Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "HallWebService\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "HallWebService\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:05:56.623Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "HallWebService\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "HallWebService\\Controllers\\GuestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:30:38.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EventHallWebApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:28:20.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "HallEventAdmin\\Window4.xaml.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window4.xaml.cs",
+              "RelativeToolTip": "HallEventAdmin\\Window4.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:14:14.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\ImageRepository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\ImageRepository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\ImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:14:12.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\DBContext\\DBContext.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\DBContext\\DBContext.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\DBContext\\DBContext.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\DBContext\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:29:21.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "EventModels\\Models\\ClassDiagram1.cd",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\ClassDiagram1.cd",
+              "RelativeToolTip": "EventModels\\Models\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-06T09:28:49.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "HallWebService\\ClassDiagram1.cd",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\ClassDiagram1.cd",
+              "RelativeToolTip": "HallWebService\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-02T15:16:35.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window2.xaml",
+              "RelativeDocumentMoniker": "HallEventAdmin\\Window2.xaml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window2.xaml",
+              "RelativeToolTip": "HallEventAdmin\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T18:38:41.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mainwindow.xaml.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\mainwindow.xaml.cs",
+              "RelativeDocumentMoniker": "HallEventAdmin\\mainwindow.xaml.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\mainwindow.xaml.cs",
+              "RelativeToolTip": "HallEventAdmin\\mainwindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:29:31.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "HallEventAdmin\\ClassDiagram1.cd",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\ClassDiagram1.cd",
+              "RelativeToolTip": "HallEventAdmin\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-02T15:16:29.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HallWebService.csproj",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\HallWebService.csproj",
+              "RelativeDocumentMoniker": "HallWebService\\HallWebService.csproj",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\HallWebService.csproj",
+              "RelativeToolTip": "HallWebService\\HallWebService.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T08:55:31.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\Repository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\Repository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\Repository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:01:51.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\IRepository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\IRepository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\IRepository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:00:23.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ragisterController.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\Controllers\\ragisterController.cs",
+              "RelativeDocumentMoniker": "HallWebService\\Controllers\\ragisterController.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\Controllers\\ragisterController.cs",
+              "RelativeToolTip": "HallWebService\\Controllers\\ragisterController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:35:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetHallList.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\GetHallList.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Catalog\\GetHallList.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\GetHallList.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Catalog\\GetHallList.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T07:34:44.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetHallCatalog.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\GetHallCatalog.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Catalog\\GetHallCatalog.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\GetHallCatalog.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Catalog\\GetHallCatalog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T06:58:35.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window3.xaml",
+              "RelativeDocumentMoniker": "HallEventAdmin\\Window3.xaml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window3.xaml",
+              "RelativeToolTip": "HallEventAdmin\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T12:00:07.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window4.xaml",
+              "RelativeDocumentMoniker": "HallEventAdmin\\Window4.xaml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\Window4.xaml",
+              "RelativeToolTip": "HallEventAdmin\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-25T06:11:46.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\CityRepository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\CityRepository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\CityRepository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\CityRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAywFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:30:31.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CityCreator.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\CityCreator.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\ModelFactory\\CityCreator.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\CityCreator.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\ModelFactory\\CityCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:31:15.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebClient.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\WebClient.cs",
+              "RelativeDocumentMoniker": "WabApiClient\\WebClient.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\WebClient.cs",
+              "RelativeToolTip": "WabApiClient\\WebClient.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwIoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:47:45.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "mainwindow.xaml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\mainwindow.xaml",
+              "RelativeDocumentMoniker": "HallEventAdmin\\mainwindow.xaml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\mainwindow.xaml",
+              "RelativeToolTip": "HallEventAdmin\\mainwindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T18:16:04.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EventHallWebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:29:19.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ImageCreator.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\ImageCreator.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\ModelFactory\\ImageCreator.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\ImageCreator.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\ModelFactory\\ImageCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T09:13:28.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MeetRepository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\MeetRepository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\MeetRepository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\MeetRepository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\MeetRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIAwwC8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:46:06.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EventHallViewModel.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\ViewModel\\EventHallViewModel.cs",
+              "RelativeDocumentMoniker": "EventModels\\ViewModel\\EventHallViewModel.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\ViewModel\\EventHallViewModel.cs",
+              "RelativeToolTip": "EventModels\\ViewModel\\EventHallViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:11:13.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EventHall.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\EventHall.cs",
+              "RelativeDocumentMoniker": "EventModels\\Models\\EventHall.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\EventHall.cs",
+              "RelativeToolTip": "EventModels\\Models\\EventHall.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:15:08.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Meet.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Meet.cs",
+              "RelativeDocumentMoniker": "EventModels\\Models\\Meet.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Meet.cs",
+              "RelativeToolTip": "EventModels\\Models\\Meet.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:30:17.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "EventModels\\Models\\Image.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Image.cs",
+              "RelativeToolTip": "EventModels\\Models\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:12:48.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\City.cs",
+              "RelativeDocumentMoniker": "EventModels\\Models\\City.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\City.cs",
+              "RelativeToolTip": "EventModels\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:31:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "EventModels\\Models\\Model.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Model.cs",
+              "RelativeToolTip": "EventModels\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:31:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IWebClient.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\IWebClient.cs",
+              "RelativeDocumentMoniker": "WabApiClient\\IWebClient.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\IWebClient.cs",
+              "RelativeToolTip": "WabApiClient\\IWebClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:25:42.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "EventModels\\Models\\Rating.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventModels\\Models\\Rating.cs",
+              "RelativeToolTip": "EventModels\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:44:10.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IWebClient.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\IWebClient.cs",
+              "RelativeDocumentMoniker": "WabApiClient\\IWebClient.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\IWebClient.cs",
+              "RelativeToolTip": "WabApiClient\\IWebClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:23:44.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EventHallWebApplication.csproj",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\EventHallWebApplication.csproj",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\EventHallWebApplication.csproj",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\EventHallWebApplication.csproj",
+              "RelativeToolTip": "EventHallWebApplication\\EventHallWebApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T07:02:20.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RatingCreator.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\RatingCreator.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\ModelFactory\\RatingCreator.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\RatingCreator.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\ModelFactory\\RatingCreator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:44:42.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RatingRepository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\RatingRepository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\RatingRepository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\RatingRepository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\RatingRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAArwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:56:05.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HallItem.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\HallItem.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Catalog\\HallItem.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\HallItem.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Catalog\\HallItem.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAADgvzAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T07:43:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WebClient.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\WebClient.cs",
+              "RelativeDocumentMoniker": "WabApiClient\\WebClient.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\WabApiClient\\WebClient.cs",
+              "RelativeToolTip": "WabApiClient\\WebClient.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowIoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:23:47.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HallEventAdmin.csproj",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\HallEventAdmin.csproj",
+              "RelativeDocumentMoniker": "HallEventAdmin\\HallEventAdmin.csproj",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\HallEventAdmin.csproj",
+              "RelativeToolTip": "HallEventAdmin\\HallEventAdmin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T15:27:07.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EventHallWebApplication",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\EventHallWebApplication.csproj",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\EventHallWebApplication.csproj",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\EventHallWebApplication.csproj",
+              "RelativeToolTip": "EventHallWebApplication\\EventHallWebApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T07:34:14.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EventHallCreator.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\EventHallCreator.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\ModelFactory\\EventHallCreator.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\EventHallCreator.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\ModelFactory\\EventHallCreator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:56:03.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "viewOrderMeet.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\viewOrderMeet.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Catalog\\viewOrderMeet.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\viewOrderMeet.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Catalog\\viewOrderMeet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T17:38:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "yourMeets.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\yourMeets.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Catalog\\yourMeets.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\yourMeets.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Catalog\\yourMeets.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAOBvwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:21:29.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MeetCreator.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\MeetCreator.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\ModelFactory\\MeetCreator.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\MeetCreator.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\ModelFactory\\MeetCreator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T09:31:29.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\UserRepository.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\UserRepository.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\UserRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAnwFEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:46:53.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ajax.js",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\scripts\\ajax.js",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\wwwroot\\scripts\\ajax.js",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\wwwroot\\scripts\\ajax.js",
+              "RelativeToolTip": "EventHallWebApplication\\wwwroot\\scripts\\ajax.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAOBwwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-14T06:33:24.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HallEventAdmin\\AssemblyInfo.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\AssemblyInfo.cs",
+              "RelativeToolTip": "HallEventAdmin\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:04:24.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\App.xaml",
+              "RelativeDocumentMoniker": "HallEventAdmin\\App.xaml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\App.xaml",
+              "RelativeToolTip": "HallEventAdmin\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T15:52:08.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HallEventAdmin\\App.xaml.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallEventAdmin\\App.xaml.cs",
+              "RelativeToolTip": "HallEventAdmin\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:52:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "viewRegistration.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\viewRegistration.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Catalog\\viewRegistration.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\viewRegistration.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Catalog\\viewRegistration.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAALB8wBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T07:02:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Shared\\View.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAKB7wCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T08:46:13.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "hallCatalog.css",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\css\\hallCatalog.css",
+              "RelativeDocumentMoniker": "HallWebService\\wwwroot\\css\\hallCatalog.css",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\css\\hallCatalog.css",
+              "RelativeToolTip": "HallWebService\\wwwroot\\css\\hallCatalog.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-10T09:04:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Program.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Program.cs",
+              "RelativeToolTip": "EventHallWebApplication\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:48:43.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\Program.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\Repositorys\\Program.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\Repositorys\\Program.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\Repositorys\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:56:40.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ModelFactory.cs",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\ModelFactory.cs",
+              "RelativeDocumentMoniker": "HallWebService\\DataAccessLayer\\ModelFactory\\ModelFactory.cs",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\DataAccessLayer\\ModelFactory\\ModelFactory.cs",
+              "RelativeToolTip": "HallWebService\\DataAccessLayer\\ModelFactory\\ModelFactory.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:04:33.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventHallWebApplication\\Views\\Catalog\\Index.cshtml",
+              "ToolTip": "C:\\FinalProjectEvent\\EventHall\\EventHallWebApplication\\Views\\Catalog\\Index.cshtml",
+              "RelativeToolTip": "EventHallWebApplication\\Views\\Catalog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T04:43:13.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

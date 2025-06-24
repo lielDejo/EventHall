@@ -1,0 +1,11 @@
+C:\FinalProjectEvent\EventHall\EventModels\bin\Debug\net8.0\EventModels.deps.json
+C:\FinalProjectEvent\EventHall\EventModels\bin\Debug\net8.0\EventModels.dll
+C:\FinalProjectEvent\EventHall\EventModels\bin\Debug\net8.0\EventModels.pdb
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\EventModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\EventModels.AssemblyInfoInputs.cache
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\EventModels.AssemblyInfo.cs
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\EventModels.csproj.CoreCompileInputs.cache
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\EventModels.dll
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\refint\EventModels.dll
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\EventModels.pdb
+C:\FinalProjectEvent\EventHall\EventModels\obj\Debug\net8.0\ref\EventModels.dll

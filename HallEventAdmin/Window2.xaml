@@ -1,0 +1,215 @@
+﻿<Window x:Class="HallEventAdmin.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HallEventAdmin"
+        mc:Ignorable="d"
+        Title="ניהול אולמות" Height="600" Width="1000" Background="#1E1E1E" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+
+    <Grid Margin="20">
+        <!-- כותרת -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+            <TextBlock Text="שלום," FontSize="26" FontWeight="Bold" Foreground="#B39D7A"/>
+            <TextBlock x:Name="UserNameTextBlock" FontSize="26" FontWeight="Bold" Foreground="White" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="EventHallsDataGrid" AutoGenerateColumns="False" CanUserAddRows="False"
+                  Background="#2A2A2A" Foreground="White" BorderBrush="#B39D7A" BorderThickness="1"
+                  RowBackground="#2A2A2A" AlternatingRowBackground="#333333"
+                  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                  GridLinesVisibility="Horizontal" HeadersVisibility="Column"
+                  ColumnHeaderHeight="40" FontSize="14" FontWeight="SemiBold">
+
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#444"/>
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+            </DataGrid.Resources>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="שם האולם" Binding="{Binding HallName}" Width="*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontSize" Value="14"/>
+                            <Setter Property="TextWrapping" Value="Wrap"/>
+                            <Setter Property="FlowDirection" Value="RightToLeft"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="פרטים" Binding="{Binding DescriptionHall}" Width="*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontSize" Value="10"/>
+                            <Setter Property="TextWrapping" Value="Wrap"/>
+                            <Setter Property="FlowDirection" Value="RightToLeft"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+
+                <DataGridTextColumn Header="כתובת" Binding="{Binding GeographicalLocation}" Width="*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontSize" Value="14"/>
+                            <Setter Property="TextWrapping" Value="Wrap"/>
+                            <Setter Property="FlowDirection" Value="RightToLeft"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="תכולה" Binding="{Binding PeopleContent}" Width="*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontSize" Value="14"/>
+                            <Setter Property="TextWrapping" Value="Wrap"/>
+                            <Setter Property="FlowDirection" Value="RightToLeft"/>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <!-- תמונות -->
+                <DataGridTemplateColumn Header="תמונות" Width="2*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ItemsControl ItemsSource="{Binding HallImage}">
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal" VerticalAlignment="Top"/>
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border CornerRadius="6" BorderBrush="#B39D7A" BorderThickness="1" Margin="2" Width="100" Height="100">
+                                            <Image Source="{Binding ImageAddress}" Stretch="UniformToFill" />
+                                        </Border>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="הוסף תמונה" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="➕ הוסף תמונה" 
+                    Click="AddImageToHall_Click"
+                    Background="#4CAF50"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Padding="5"
+                    Cursor="Hand"
+                    Width="120"
+                    Height="30"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+
+                <!-- פעולות -->
+                <DataGridTemplateColumn Header="פעולות" Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Content="ערוך" Click="EditHall_Click" Margin="5" Width="60" Height="28"
+                                        Background="#B39D7A" Foreground="Black" FontWeight="Bold"
+                                        Cursor="Hand" BorderThickness="0" Padding="5,0">
+                                    <Button.Style>
+                                        <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="Button">
+                                                        <Border Background="{TemplateBinding Background}"
+                                                                CornerRadius="5"
+                                                                BorderThickness="0"
+                                                                Padding="{TemplateBinding Padding}">
+                                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                        </Border>
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                            <Style.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True">
+                                                    <Setter Property="Background" Value="#B39D7A"/>
+                                                </Trigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+
+                                <Button Content="מחק" Click="DeleteHall_Click" Margin="5" Width="60" Height="28"
+                                        Background="#E63946" Foreground="White" FontWeight="Bold"
+                                        Cursor="Hand" BorderThickness="0" Padding="5,0">
+                                    <Button.Style>
+                                        <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                                            <Setter Property="Template">
+                                                <Setter.Value>
+                                                    <ControlTemplate TargetType="Button">
+                                                        <Border Background="{TemplateBinding Background}"
+                                                                CornerRadius="5"
+                                                                BorderThickness="0"
+                                                                Padding="{TemplateBinding Padding}">
+                                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                        </Border>
+                                                    </ControlTemplate>
+                                                </Setter.Value>
+                                            </Setter>
+                                            <Style.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True">
+                                                    <Setter Property="Background" Value="#FF6B6B"/>
+                                                </Trigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+
+
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- כפתור הוספה -->
+        <Button Content="הוסף אולם חדש" Width="180" Height="45"
+                HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                Background="#B39D7A" Foreground="Black" FontWeight="Bold" FontSize="16" BorderThickness="0"
+                Click="AddNewHall_Click" Cursor="Hand" Margin="0,0,14,6">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" CornerRadius="8" Padding="10">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button Content="צפה ברשימת פגישות" Width="180" Height="45"
+         HorizontalAlignment="Right" VerticalAlignment="Bottom"
+         Background="#B39D7A" Foreground="Black" FontWeight="Bold" FontSize="16" BorderThickness="0"
+         Click="viewListOfMeets_Click" Cursor="Hand" Margin="0,0,206,6">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" CornerRadius="8" Padding="10">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Content="Log Out" Width="102" Height="45"
+  HorizontalAlignment="Left" VerticalAlignment="Top"
+  Background="#B39D7A" Foreground="Black" FontWeight="Bold" FontSize="16" BorderThickness="0"
+  Click="logOut_Click" Cursor="Hand" Margin="455,471,0,0">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" CornerRadius="8" Padding="10">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <!-- כפתור חזרה -->
+    </Grid>
+</Window>

@@ -1,0 +1,50 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.catalog-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 20px;
+    color: #333;
+}
+
+.allHalls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.hall {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .hall:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+.hallImg {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+}
+
+.hallName {
+    font-size: 1.5rem;
+    color: #444;
+    margin: 15px 0;
+}

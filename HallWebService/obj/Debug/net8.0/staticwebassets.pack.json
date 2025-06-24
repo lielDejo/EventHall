@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\css\\hallCatalog.css",
+      "PackagePath": "staticwebassets\\css\\hallCatalog.css"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\202505171218418750.png",
+      "PackagePath": "staticwebassets\\images\\202505171218418750.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\202505171222088490.png",
+      "PackagePath": "staticwebassets\\images\\202505171222088490.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\202505171235081430.png",
+      "PackagePath": "staticwebassets\\images\\202505171235081430.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\202505171235081631.png",
+      "PackagePath": "staticwebassets\\images\\202505171235081631.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\202506061219539610.png",
+      "PackagePath": "staticwebassets\\images\\202506061219539610.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\202506061219539831.png",
+      "PackagePath": "staticwebassets\\images\\202506061219539831.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\The_Garden.jpg",
+      "PackagePath": "staticwebassets\\images\\The_Garden.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\bgjj.png",
+      "PackagePath": "staticwebassets\\images\\bgjj.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\c xxc .png",
+      "PackagePath": "staticwebassets\\images\\c xxc .png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\chofit.jpg",
+      "PackagePath": "staticwebassets\\images\\chofit.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\efcef.png",
+      "PackagePath": "staticwebassets\\images\\efcef.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\fdlk;ml;k.png",
+      "PackagePath": "staticwebassets\\images\\fdlk;ml;k.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\grt.png",
+      "PackagePath": "staticwebassets\\images\\grt.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\hermozo.jpg",
+      "PackagePath": "staticwebassets\\images\\hermozo.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\hhhh.png",
+      "PackagePath": "staticwebassets\\images\\hhhh.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\hyuhub.png",
+      "PackagePath": "staticwebassets\\images\\hyuhub.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\pninat_hmizrach.jpg",
+      "PackagePath": "staticwebassets\\images\\pninat_hmizrach.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\via.jpg",
+      "PackagePath": "staticwebassets\\images\\via.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\vigo.jpeg",
+      "PackagePath": "staticwebassets\\images\\vigo.jpeg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\vigo2.jpg",
+      "PackagePath": "staticwebassets\\images\\vigo2.jpg"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\xzx.png",
+      "PackagePath": "staticwebassets\\images\\xzx.png"
+    },
+    {
+      "Id": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\wwwroot\\images\\לצלך.png",
+      "PackagePath": "staticwebassets\\images\\לצלך.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HallWebService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HallWebService.props",
+      "PackagePath": "build\\HallWebService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HallWebService.props",
+      "PackagePath": "buildMultiTargeting\\HallWebService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HallWebService.props",
+      "PackagePath": "buildTransitive\\HallWebService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

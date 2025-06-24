@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/ddUT5WyBW/eJdb69H8Qc+HB3VRgaRz9iWfgsKb8aKIdoNj6k1BGDt25Wx8uS5fZwpw1QdUbQcyQrJVbF+99g==",
+  "success": true,
+  "projectFilePath": "C:\\FinalProjectEvent\\EventHall\\HallWebService\\HallWebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magshimim\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\swashbuckle.aspnetcore\\7.2.0\\swashbuckle.aspnetcore.7.2.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\system.data.oledb\\9.0.0\\system.data.oledb.9.0.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.0\\system.diagnostics.performancecounter.9.0.0.nupkg.sha512",
+    "C:\\Users\\Magshimim\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

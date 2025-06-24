@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EventHallWebApplication
+build_property.RootNamespace = EventHallWebApplication
+build_property.ProjectDir = C:\FinalProjectEvent\EventHall\EventHallWebApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\FinalProjectEvent\EventHall\EventHallWebApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/GetHallCatalog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xHZXRIYWxsQ2F0YWxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/GetHallList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xHZXRIYWxsTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/HallItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xIYWxsSXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/viewLoginForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1x2aWV3TG9naW5Gb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/viewOrderMeet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1x2aWV3T3JkZXJNZWV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/viewRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1x2aWV3UmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Catalog/yourMeets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1x5b3VyTWVldHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Shared/MasterPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1hc3RlclBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FinalProjectEvent/EventHall/EventHallWebApplication/Views/Shared/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
